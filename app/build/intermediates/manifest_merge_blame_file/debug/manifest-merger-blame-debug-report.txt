@@ -1,0 +1,139 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pantry"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <queries>
+13-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:7:5-11:15
+14        <intent>
+14-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:8:9-10:18
+15            <action android:name="android.media.action.IMAGE_CAPTURE" />
+15-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:9:13-73
+15-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:9:21-70
+16        </intent>
+17    </queries>
+18
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+22
+23    <application
+23-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:13:5-65:19
+24        android:allowBackup="true"
+24-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:14:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.3.2] /Users/jvh/.gradle/caches/transforms-2/files-2.1/001c2e17ec9d21aa891dc81b4c2e075d/core-1.3.2/AndroidManifest.xml:24:18-86
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:icon="@drawable/white"
+28-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:15:9-39
+29        android:label="@string/app_name"
+29-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:16:9-41
+30        android:roundIcon="@drawable/white"
+30-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:17:9-44
+31        android:supportsRtl="true"
+31-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:19:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.Pantry"
+33-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:20:9-44
+34        android:usesCleartextTraffic="true" >
+34-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:18:9-44
+35        <activity
+35-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:21:9-24:46
+36            android:name="com.pantry.WebActivity"
+36-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:22:13-50
+37            android:exported="true"
+37-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:23:13-36
+38            android:theme="@style/WebTheme" />
+38-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:24:13-44
+39        <activity
+39-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:25:9-28:49
+40            android:name="com.pantry.AboutActivity"
+40-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:26:13-52
+41            android:exported="true"
+41-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:27:13-36
+42            android:theme="@style/AboutTheme" />
+42-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:28:13-46
+43        <activity
+43-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:29:9-32:48
+44            android:name="com.pantry.InfoActivity"
+44-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:30:13-51
+45            android:exported="true"
+45-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:31:13-36
+46            android:theme="@style/InfoTheme" />
+46-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:32:13-45
+47        <activity
+47-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:33:9-36:49
+48            android:name="com.pantry.BeginActivity"
+48-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:34:13-52
+49            android:exported="true"
+49-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:35:13-36
+50            android:theme="@style/BeginTheme" />
+50-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:36:13-46
+51        <activity
+51-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:37:9-40:49
+52            android:name="com.pantry.CheckActivity"
+52-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:38:13-52
+53            android:exported="true"
+53-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:39:13-36
+54            android:theme="@style/CheckTheme" />
+54-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:40:13-46
+55        <activity
+55-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:41:9-44:48
+56            android:name="com.pantry.HomeActivity"
+56-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:42:13-51
+57            android:exported="true"
+57-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:43:13-36
+58            android:theme="@style/HomeTheme" />
+58-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:44:13-45
+59        <activity
+59-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:45:9-54:20
+60            android:name="com.pantry.SplashActivity"
+60-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:46:13-53
+61            android:exported="true"
+61-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:47:13-36
+62            android:theme="@style/SplashTheme" >
+62-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:48:13-47
+63            <intent-filter>
+63-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:49:13-53:29
+64                <action android:name="android.intent.action.MAIN" />
+64-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:50:17-69
+64-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:50:25-66
+65
+66                <category android:name="android.intent.category.LAUNCHER" />
+66-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:52:17-77
+66-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:52:27-74
+67            </intent-filter>
+68        </activity>
+69
+70        <provider
+70-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:56:9-64:20
+71            android:name="androidx.core.content.FileProvider"
+71-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:57:13-62
+72            android:authorities="com.pantry"
+72-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:58:13-45
+73            android:exported="false"
+73-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:59:13-37
+74            android:grantUriPermissions="true" >
+74-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:60:13-47
+75            <meta-data
+75-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:61:13-63:54
+76                android:name="android.support.FILE_PROVIDER_PATHS"
+76-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:62:17-67
+77                android:resource="@xml/file_paths" />
+77-->/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/AndroidManifest.xml:63:17-51
+78        </provider>
+79    </application>
+80
+81</manifest>

@@ -1,0 +1,2 @@
+com/pantry/BuildConfig.java
+ com.pantry.BuildConfig

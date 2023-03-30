@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_instructions.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/instructions.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_pantrylabel.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/pantrylabel.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_middlegroundhelp.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/middlegroundhelp.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_add_item.xml.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/add_item.xml"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_learnmore_abt_text.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/learnmore_abt_text.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_pepper.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/pepper.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/layout_activity_web.xml.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/layout/activity_web.xml"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_lettuce.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/lettuce.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/layout_activity_begin.xml.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/layout/activity_begin.xml"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_foreground_check.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/foreground_check.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/xml_file_paths.xml.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_middleground_check.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/middleground_check.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_middlegroundabout.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/middlegroundabout.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/layout_activity_info.xml.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/layout/activity_info.xml"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_continuelabel.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/continuelabel.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_middleground.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/middleground.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_backdrop_list.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/backdrop_list.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_success.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/success.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_tocamera.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/tocamera.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_learnmore_back.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/learnmore_back.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_understood.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/understood.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_text_about.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/text_about.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_abouticon.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/abouticon.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_backdrop_delete.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/backdrop_delete.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_button_begin.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/button_begin.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_backdrop_typeproduct.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/backdrop_typeproduct.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_infomiddleground.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/infomiddleground.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_forground.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/forground.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_backdrop_choosephoto.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/backdrop_choosephoto.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_learnmmore.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/learnmmore.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/layout_activity_homescreen.xml.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/layout/activity_homescreen.xml"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_learnmore_mission.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/learnmore_mission.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/layout_activity_check.xml.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/layout/activity_check.xml"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_white.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/white.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_backdrop_learnmore.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/backdrop_learnmore.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_backdrop_takephoto.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/backdrop_takephoto.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_test1.jpeg.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/test1.jpeg"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_backdrop_continue.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/backdrop_continue.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_beforeyouuse.png.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/beforeyouuse.png"
+    },
+    {
+        "merged": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/build/intermediates/res/merged/debug/drawable_test2.webp.flat",
+        "source": "/Users/jvh/Desktop/AndroidStudioProjects/Pantry/app/src/main/res/drawable/test2.webp"
+    }
+]
