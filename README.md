@@ -7,6 +7,7 @@ Pantry is a mobile application that helps users minimize food waste by suggestin
 3) Unzip
 4) In Android Studio: Select New -> Import, and Select the unzipped Pantry folder. 
 5) Use an Emulator to run the app** (NATIVE EMULATOR FOR PANTRY: Pixel 6 Pro) 
+6) Upload custom images to the Camera to test (follow <a href="https://www.google.com/" target="_blank">this</a> tutorial for help)
 
 **Package errors can be fixed by "Cold Booting" the Emulator and then running the app in Android Studio (this is not an error with Pantry, but with the Emulator).
 
