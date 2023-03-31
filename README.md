@@ -1,5 +1,5 @@
 # Pantry
-Pantry <a href="https://www.youtube.com/watch?v=vwfGOqII6qY&ab_channel=JamalHassunizadeh" target="_blank">this</a> is a mobile application that helps users minimize food waste by suggesting recipes based on the ingredients available in their fridge. With cutting-edge neural network technology, Pantry automates the ingredient-tracking process, allowing users to make the most out of the ingredients they have.
+<a href="https://www.youtube.com/watch?v=vwfGOqII6qY&ab_channel=JamalHassunizadeh" target="_blank">Pantry</a> is a mobile application that helps users minimize food waste by suggesting recipes based on the ingredients available in their fridge. With cutting-edge neural network technology, Pantry automates the ingredient-tracking process, allowing users to make the most out of the ingredients they have.
 
 # IMPORTANT NOTES FOR DOWNLOAD:
 1) Open Android Studio
