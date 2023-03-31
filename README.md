@@ -2,10 +2,11 @@
 Pantry is a mobile application that helps users minimize food waste by suggesting recipes based on the ingredients available in their fridge. With cutting-edge neural network technology, Pantry automates the ingredient-tracking process, allowing users to make the most out of the ingredients they have.
 
 # IMPORTANT NOTES FOR DOWNLOAD:
-1) Download the zip from github
-2) Unzip
-3) Select New -> Import in Android Studio and select the unzipped Pantry folder. 
-3) Use an Emulator to run the app** (NATIVE EMULATOR FOR PANTRY: Pixel 6 Pro) 
+1) Open Android Studio
+2) Download the Pantry zip from Github
+3) Unzip
+4) In Android Studio: Select New -> Import, and Select the unzipped Pantry folder. 
+5) Use an Emulator to run the app** (NATIVE EMULATOR FOR PANTRY: Pixel 6 Pro) 
 
 **Package errors can be fixed by "Cold Booting" the Emulator and then running the app in Android Studio (this is not an error with Pantry, but with the Emulator).
 
