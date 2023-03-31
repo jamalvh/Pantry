@@ -1,3 +1,7 @@
+<div align="center">
+<img src="[https://www.dronahq.com/wp-content/uploads/2022/03/banner-database-gui.svg](https://www.supplyonlywindowsanddoors.co.uk/wp-content/uploads/2015/02/Light-Blue-Banner-copy.jpg)" align="center" style="width: 100%" />
+</div>
+
 # Pantry
 Pantry is a mobile application that helps users minimize food waste by suggesting recipes based on the ingredients available in their fridge. With cutting-edge neural network technology, Pantry automates the ingredient-tracking process, allowing users to make the most out of the ingredients they have.
 
