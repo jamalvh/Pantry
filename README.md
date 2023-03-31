@@ -19,7 +19,7 @@ Pantry uses an optimized ingredient-detection model based on deep learning netwo
 
 # Technologies Used
 Pantry leverages powerful and reliable Google technologies to bring its vision for a more sustainable future to life. The application uses Google Colab and Google’s TensorFlow for deep learning and Kotlin for Android app development.
-<div align="center">  
+<div>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
