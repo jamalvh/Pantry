@@ -9,14 +9,6 @@ Pantry is a mobile application that helps users minimize food waste by suggestin
 
 **Package errors can be fixed by "Cold Booting" the Emulator and then running the app in Android Studio (this is not an error with Pantry, but with the Emulator).
 
-# How it Works
-Pantry uses an optimized ingredient-detection model based on deep learning networks generated using Python in Google Colab and Google’s TensorFlow. Users simply take a picture of their fridge and Pantry identifies the ingredients present in the image. The app then suggests recipes that use those ingredients, minimizing food waste and saving users time and money.
-
-# Features
-- Ingredient detection based on neural network technology
-- Recipe suggestions based on available ingredients
-- A user-friendly UI developed using Kotlin in Android Studio
-
 # Technologies Used
 Pantry leverages powerful and reliable Google technologies to bring its vision for a more sustainable future to life. The application uses Google Colab and Google’s TensorFlow for deep learning and Kotlin for Android app development.
 <div>  
@@ -28,6 +20,14 @@ Pantry leverages powerful and reliable Google technologies to bring its vision f
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
+
+# How it Works
+Pantry uses an optimized ingredient-detection model based on deep learning networks generated using Python in Google Colab and Google’s TensorFlow. Users simply take a picture of their fridge and Pantry identifies the ingredients present in the image. The app then suggests recipes that use those ingredients, minimizing food waste and saving users time and money.
+
+# Features
+- Ingredient detection based on neural network technology
+- Recipe suggestions based on available ingredients
+- A user-friendly UI developed using Kotlin in Android Studio
 
 # About Us
 We are passionate undergraduate students from the University of Michigan. We created Pantry with the goal of minimizing domestic food waste and promoting sustainable cooking practices. Our team is passionate about using technology to create practical solutions to real-world problems. We believe that by making it easier for people to use the ingredients they have, we can make a positive impact on the environment and save users time and money in the process.
