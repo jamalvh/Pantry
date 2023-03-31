@@ -9,6 +9,9 @@ Pantry is a mobile application that helps users minimize food waste by suggestin
 
 **Package errors can be fixed by "Cold Booting" the Emulator and then running the app in Android Studio (this is not an error with Pantry, but with the Emulator).
 
+# How it Works
+Pantry uses an optimized ingredient-detection model based on deep learning networks generated using Python in Google Colab and Google’s TensorFlow. Users simply take a picture of their fridge and Pantry identifies the ingredients present in the image. The app then suggests recipes that use those ingredients, minimizing food waste and saving users time and money.
+
 # Technologies Used
 Pantry leverages powerful and reliable Google technologies to bring its vision for a more sustainable future to life. The application uses Google Colab and Google’s TensorFlow for deep learning and Kotlin for Android app development.
 <div>  
@@ -20,9 +23,6 @@ Pantry leverages powerful and reliable Google technologies to bring its vision f
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-
-# How it Works
-Pantry uses an optimized ingredient-detection model based on deep learning networks generated using Python in Google Colab and Google’s TensorFlow. Users simply take a picture of their fridge and Pantry identifies the ingredients present in the image. The app then suggests recipes that use those ingredients, minimizing food waste and saving users time and money.
 
 # Features
 - Ingredient detection based on neural network technology
