@@ -22,6 +22,8 @@ via https://www.youtube.com/watch?v=vwfGOqII6qY&ab_channel=JamalHassunizadeh
 # How it Works
 Pantry uses an optimized ingredient-detection model based on deep learning networks generated using Python in Google Colab and Google’s TensorFlow. Users simply take a picture of their fridge and Pantry identifies the ingredients present in the image. The app then suggests recipes that use those ingredients, minimizing food waste and saving users time and money.
 
+<img width="223" alt="Screenshot 2024-03-23 at 8 51 43 PM" src="https://github.com/jamalvh/Pantry/assets/113135025/7fb8b376-f95c-4a0c-a3ae-1263b3fdb63b">
+
 # Technologies Used
 Pantry leverages powerful and reliable Google technologies to bring its vision for a more sustainable future to life. The application uses Google Colab and Google’s TensorFlow for deep learning and Kotlin for Android app development.
 <div>  
