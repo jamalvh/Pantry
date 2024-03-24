@@ -1,11 +1,13 @@
 # Pantry
 <a href="https://www.youtube.com/watch?v=vwfGOqII6qY&ab_channel=JamalHassunizadeh" target="_blank">Pantry</a> is a mobile application that helps users minimize food waste by suggesting recipes based on the ingredients available in their fridge. With cutting-edge neural network technology, Pantry automates the ingredient-tracking process, allowing users to make the most out of the ingredients they have.
 
-<img width="200" alt="Screenshot 2024-03-23 at 8 57 37 PM" src="https://github.com/jamalvh/Pantry/assets/113135025/9151f406-7841-4437-8b5c-b3e166aefe9e">
-<img width="200" alt="Screenshot 2024-03-23 at 8 58 17 PM" src="https://github.com/jamalvh/Pantry/assets/113135025/8b666257-6fc0-4365-a582-1223a7862428">
-<img width="200" alt="Screenshot 2024-03-23 at 8 58 09 PM" src="https://github.com/jamalvh/Pantry/assets/113135025/121643cf-4aae-4118-9a76-b392cd6d62c6">
-<img width="200" alt="Screenshot 2024-03-23 at 8 57 58 PM" src="https://github.com/jamalvh/Pantry/assets/113135025/944c9a27-6ba7-45e2-826f-1ef0daaa9371">
+<img width="187.5" alt="Screenshot 2024-03-23 at 9 00 41 PM" src="https://github.com/jamalvh/Pantry/assets/113135025/839eb33d-e301-4210-a6aa-bf9452ddae74">
+<img width="190" alt="Screenshot 2024-03-23 at 8 57 37 PM" src="https://github.com/jamalvh/Pantry/assets/113135025/9151f406-7841-4437-8b5c-b3e166aefe9e">
+<img width="190" alt="Screenshot 2024-03-23 at 8 58 17 PM" src="https://github.com/jamalvh/Pantry/assets/113135025/8b666257-6fc0-4365-a582-1223a7862428">
+<img width="190" alt="Screenshot 2024-03-23 at 8 58 09 PM" src="https://github.com/jamalvh/Pantry/assets/113135025/121643cf-4aae-4118-9a76-b392cd6d62c6">
+<img width="190" alt="Screenshot 2024-03-23 at 8 57 58 PM" src="https://github.com/jamalvh/Pantry/assets/113135025/944c9a27-6ba7-45e2-826f-1ef0daaa9371">
 
+via https://www.youtube.com/watch?v=vwfGOqII6qY&ab_channel=JamalHassunizadeh
 
 # IMPORTANT NOTES FOR DOWNLOAD:
 1) Open Android Studio
