@@ -1,4 +1,4 @@
-# Pantry
+# Pantry 𓎩
 <a href="https://www.youtube.com/watch?v=vwfGOqII6qY&ab_channel=JamalHassunizadeh" target="_blank">Pantry</a> is a mobile application that helps users minimize food waste by suggesting recipes based on the ingredients available in their fridge. With cutting-edge neural network technology, Pantry automates the ingredient-tracking process, allowing users to make the most out of the ingredients they have.
 
 <img width="187.5" alt="Screenshot 2024-03-23 at 9 00 41 PM" src="https://github.com/jamalvh/Pantry/assets/113135025/839eb33d-e301-4210-a6aa-bf9452ddae74">
