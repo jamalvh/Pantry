@@ -42,6 +42,6 @@ Pantry leverages powerful and reliable Google technologies to bring its vision f
 - Recipe suggestions based on available ingredients
 - A user-friendly UI developed using Kotlin in Android Studio
 
-# About Us
+# About Me
 I am a passionate undergraduate student from the University of Michigan. I created Pantry with the goal of minimizing domestic food waste and promoting sustainable cooking practices. Pantry leverages technology to create practical solutions to real-world problems. I believe that by making it easier for people to use the ingredients they have, I can make a positive impact on the environment and save users time and money in the process.
  
